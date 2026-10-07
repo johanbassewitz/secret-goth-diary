@@ -4,7 +4,7 @@ A gothic diary for Windows 10 and 11. Dark roses, candlelight, and a black cat g
 
 ## Install
 
-1. [Download SecretGothDiary-Setup.exe](https://github.com/johanbassewitz/secret-goth-diary/releases/latest/download/SecretGothDiary-Setup.exe).
+1. [Download SecretGothDiary-Setup.exe](https://github.com/johanbassewitz/secret-goth-diary/raw/refs/heads/main/downloads/SecretGothDiary-Setup.exe).
 2. Double-click it. Setup needs no administrator password, terminal commands, or ZIP extraction.
 3. Open **Secret Goth Diary** using the icon on your desktop, and choose your diary password.
 
