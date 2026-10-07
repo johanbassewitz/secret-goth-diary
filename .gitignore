@@ -1,0 +1,6 @@
+dist/
+.installer-test-*/
+*.lnk
+*.log
+*.tmp
+assets/desktop-icon.png

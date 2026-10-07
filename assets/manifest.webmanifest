@@ -1,0 +1,23 @@
+{
+  "name": "Secret Goth Diary",
+  "short_name": "Goth Diary",
+  "description": "A private, 100% local gothic diary. Your notes stay on your device only.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0712",
+  "theme_color": "#0b0712",
+  "icons": [
+    {
+      "src": "assets/icon.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
